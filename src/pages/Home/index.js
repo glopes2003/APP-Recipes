@@ -1,4 +1,5 @@
-import { useState } from 'react';
+/* useEffect = trata os "efeitos colaterais" (carregamento de tela, troca dela...) */
+import { useState, useEffect } from 'react';
 
 /* SafeAreaView = área segura no layout para quem usa iphone  */
 /* TouchableOpacity = botão clicável */
